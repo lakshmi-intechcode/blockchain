@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "This is a sample demo for blockchain repository",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmi-intechcode/blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshmi-intechcode/blockchain/issues"
+  },
+  "homepage": "https://github.com/lakshmi-intechcode/blockchain#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
